@@ -7,3 +7,5 @@ class Author
   end
   
 end
+
+stephen_king = Author.new("Stephen King")
