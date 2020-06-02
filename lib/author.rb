@@ -8,4 +8,4 @@ class Author
   
 end
 
-stephen_king = Author.new("Stephen King")
+stephen_king = Author.new
