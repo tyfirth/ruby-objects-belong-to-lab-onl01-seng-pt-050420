@@ -8,5 +8,5 @@ class Author
   
 end
 
-author = Author.new
-author.name = "Stephen King"
+#author = Author.new
+#author.name = "Stephen King"
