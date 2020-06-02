@@ -1,9 +1,12 @@
 class Song 
   
-  attr :name, :title
+  attr :title
   
-  def initialize(title)
-    @title = title
+  def initialize
+   
   end
   
 end
+
+song = Song.new 
+song.title
