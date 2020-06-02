@@ -7,3 +7,5 @@ class Artist
   end
   
 end
+
+odezza = Artist.new("Odezza")
