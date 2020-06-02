@@ -9,3 +9,4 @@ class Author
 end
 
 author = Author.new
+author.name = "Stephen King"
