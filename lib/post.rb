@@ -8,3 +8,6 @@ class Post
   end
   
 end
+
+article = Post.new 
+article.title = "Letter from a Birmingham Jail"
