@@ -8,4 +8,5 @@ class Artist
   
 end
 
-odezza = Artist.new("Odezza")
+artist = Artist.new 
+artist.name = "Elvis"
