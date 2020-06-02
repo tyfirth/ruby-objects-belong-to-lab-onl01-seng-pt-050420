@@ -9,4 +9,4 @@ class Song
 end
 
 song = Song.new 
-song.title
+song.title = "I like big butts"
