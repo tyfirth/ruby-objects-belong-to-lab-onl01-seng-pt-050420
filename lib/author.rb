@@ -8,4 +8,4 @@ class Author
   
 end
 
-#author = Author.new
+author = Author.new
